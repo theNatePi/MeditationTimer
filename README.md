@@ -1,7 +1,7 @@
 # MeditationTimer
 A Chrome extension timer to remind you to step back and meditate while working on Google Chrome
 
-## Use 
+## Using The Extension 
 This meditation timer is a Chrome extension which reminds the user over a set interval of time to take a break and let their mind rest. The user first sets a time interval, then clicks "Start", and then they will then be reminded repeatedly after that time runs out. 
 
 ## Uploading As A Chrome Extension 

@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+
+  "name": "Mindful Meditation Timer",
+  "description": "This meditation timer will remind you to take a break as you work.",
+  "version": "1.0",
+
+  "permissions": [
+    "notifications",
+    "activeTab",
+    "scripting"
+  ],
+
+  "action": {
+    "default_popup": "meditationtimer.html"
+  }
+}

@@ -6,7 +6,9 @@ This meditation timer is a Chrome extension which reminds the user over a set in
 
 ## Technologies Used
 JavaScript
+
 HTML/CSS
+
 Google's Extension DevTools and JavaScript-script injection
 
 ## Uploading As A Chrome Extension 

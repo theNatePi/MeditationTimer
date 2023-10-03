@@ -12,6 +12,6 @@ HTML/CSS
 Google's Extension DevTools and JavaScript-script injection
 
 ## Uploading As A Chrome Extension 
-To use in a Chrome extension, put all files in a folder. In Google Chrome, go to chrome://extensions/. Turn on "Developer Mode" at the top right. Select "Load Unpacked" and select the folder. The extension will then be available to use on a page. When on a page, go to the extension button at the top and select "Meditation Timer" to start the extension. Instructions to use the extension are provided on the extension's page. 
+To use in a Chrome extension, put all files in a folder. In Google Chrome, go to chrome://extensions/. Turn on "Developer Mode" at the top right. Select "Load Unpacked" and select the folder. The extension will then be available to use on a page. When on a page, go to the extension button at the top and select "Meditation Timer" to start the extension. Instructions to use the extension are provided on the extension's page. The extension may close after entering a time, but your time was recorded -- simply open the extension again.
 
 Extension only works on one page at a time but still counts down if you navigate away and come back.
